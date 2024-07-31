@@ -1,0 +1,12 @@
+package study;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.BeforeEach;
+
+class CalculratorTest {
+
+	@BeforeEach
+	void setUp() {
+	}
+}
