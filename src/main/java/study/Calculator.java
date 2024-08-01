@@ -2,7 +2,7 @@ package study;
 
 import java.util.Scanner;
 
-public class Calcurator {
+public class Calculator {
 	private static final String DEFAULT_DELIMITER = ",|:";
 
 	public static int add(String str) {
